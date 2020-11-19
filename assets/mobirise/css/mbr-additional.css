@@ -1221,6 +1221,27 @@ a {
 .cid-sfnhojDgte .mbr-section-title {
   text-align: left;
 }
+.cid-sgLSt0cGlP {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-sgLSt0cGlP img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sgLSt0cGlP .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sgLSt0cGlP .card {
+    max-width: 12.5%;
+  }
+}
 .cid-sfncZHWWll {
   padding-top: 45px;
   padding-bottom: 15px;

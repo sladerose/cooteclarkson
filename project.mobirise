@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Coote Clarkson",
-    "currentPage": "gallery.html",
+    "name": "Coote Clarkson Architects",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -63,19 +63,20 @@
     "versionPublish": "5.2.1",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home | Coote Clarkson Architects",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1046,7 +1047,7 @@
     },
     "gallery.html": {
       "settings": {
-        "title": "Gallery",
+        "title": "Gallery | Coote Clarkson Architects",
         "order": 1
       },
       "components": [

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Coote Clarkson",
-    "currentPage": "page1.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1044,7 +1044,7 @@
         }
       ]
     },
-    "page1.html": {
+    "gallery.html": {
       "settings": {
         "title": "Gallery",
         "order": 1

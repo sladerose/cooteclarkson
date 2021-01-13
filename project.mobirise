@@ -70,7 +70,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 76,
-    "versionPublish": "5.2.1",
+    "versionPublish": "5.2.5",
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": true,
@@ -79,7 +79,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {

@@ -70,7 +70,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 76,
-    "versionPublish": "5.2.5",
+    "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": true,
@@ -80,7 +80,11 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "mbrsiteDomain": "pilcuhu6bc",
+    "witsec-language": false,
+    "witsec-mailform": false,
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
